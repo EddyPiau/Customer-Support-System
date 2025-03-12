@@ -33,6 +33,10 @@ should also display the percentage of resolved tickets.
 The program key functions should be able to:
 ![image](https://github.com/user-attachments/assets/29c04b50-b838-433a-838e-9e39708a4d30)
 
+Program Output:
+![image](https://github.com/user-attachments/assets/1848138d-9a8b-4ade-aadb-135a334cb8f9)
+
+
 **Remark:
 This is a collaborative group project. Credit goes to my coursemates for their valuable contributions.**
 
