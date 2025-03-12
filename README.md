@@ -1,5 +1,6 @@
 # Customer-Support-System
 
+
 **Ikigai Customer Support System** 
 Design and implement a customer support system for Ikigai, a service-based company. Ikigai, a 
 service-based company, needs a customer support system to manage incoming customer 
@@ -28,3 +29,7 @@ Project – Cake House
 g) Generate a weekly summary report and sort it based on resolved customer support 
 tickets sorted by issue type and total number of tickets for each issue type. The system 
 should also display the percentage of resolved tickets.
+
+The program key functions should be able to:
+![image](https://github.com/user-attachments/assets/29c04b50-b838-433a-838e-9e39708a4d30)
+
